@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de células para Igreja",
+  "description": "Sistema SaaS multi-hierárquico e multi-igrejas para gestão estratégica, relatórios e crescimento de células de igreja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
